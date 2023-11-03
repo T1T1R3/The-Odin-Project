@@ -1,0 +1,19 @@
+.Test{
+    background-color: rgb(255, 108, 108);
+    font-size: 30px;
+}
+
+#testfirst{
+    font-size: 40px;
+}
+
+#first{
+    color: blue;
+    background-color: white;
+    font-size: 45px;
+}
+
+#second{
+    background-color: rgb(122, 218, 122);
+    font-weight: bold;
+}

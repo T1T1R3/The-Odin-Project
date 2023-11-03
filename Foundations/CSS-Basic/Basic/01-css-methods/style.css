@@ -1,0 +1,10 @@
+.external{
+    background-color: red;
+    font-family: sans-serif;
+    color:white;
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+}

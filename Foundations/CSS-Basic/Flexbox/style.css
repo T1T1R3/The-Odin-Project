@@ -1,0 +1,17 @@
+.container{
+    display:flex;
+    flex-direction: row;
+    background:rgb(255, 181, 181);
+    height: 140px;
+    padding: 16px
+}
+
+.frst, .scnd, .thrd{
+    background: rgb(153, 153, 204);
+    color:white;
+    margin:10px;
+    padding:0px;
+    text-align: center;
+    width: 60px;
+    height: 60px;
+}
